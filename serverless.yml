@@ -2,7 +2,7 @@ org: geek10010
 app: g18-node-in-aws
 service: g18-node-in-aws
 
-frameworkVersion: '2'
+frameworkVersion: '3'
 
 provider:
   name: aws
