@@ -1,11 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Task 2
 
-## Available Scripts
+* S3 bucket URL: [http://g18-node-in-aws-bucket.s3-website-us-east-1.amazonaws.com/](http://g18-node-in-aws-bucket.s3-website-us-east-1.amazonaws.com/)
 
-In the project directory, you can run:  
-You can use NPM instead of YARN (Up to you)  
+* Deployed via Serverless URL: [https://d1sb4l4zfbgbi9.cloudfront.net/](https://d1sb4l4zfbgbi9.cloudfront.net/)
 
-### `yarn start` OR `npm run start`
+---
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
