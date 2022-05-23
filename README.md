@@ -1,8 +1,10 @@
 ## Task 2
 
-* S3 bucket URL [https://g18-node-in-aws-bucket.s3.amazonaws.com/](https://g18-node-in-aws-bucket.s3.amazonaws.com/)
+* S3 bucket URL: [http://g18-node-in-aws-bucket.s3-website-us-east-1.amazonaws.com/](http://g18-node-in-aws-bucket.s3-website-us-east-1.amazonaws.com/)
 
-* Deployed via Serverless URL [https://d1sb4l4zfbgbi9.cloudfront.net/](https://d1sb4l4zfbgbi9.cloudfront.net/)
+* Deployed via Serverless URL: [https://d1sb4l4zfbgbi9.cloudfront.net/](https://d1sb4l4zfbgbi9.cloudfront.net/)
+
+---
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
